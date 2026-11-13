@@ -1,0 +1,14 @@
+opt_enable_snap,Enable window snap
+opt_enable_snap_tip,Snap floating windows to screen edges and other windows while dragging.
+opt_always_open_window_front,Enable item interact to open & front window
+opt_always_open_window_front_tip,Interacting with an item brings its open window to the front instead of closing it.
+opt_enable_box_select,Enable box-select with key
+opt_enable_box_select_tip,Hold the box select key while dragging over any inventory cell (empty or occupied) to box-select.
+opt_snap_threshold,Snap threshold (px)
+opt_snap_threshold_tip,How close (in pixels) a window edge must be to snap.
+opt_snap_mode,Window snap mode
+opt_snap_mode_tip,Auto: always snap while dragging. Key: only snap while holding the window snap key.
+opt_snap_key,Window snap key
+opt_snap_key_tip,In Key mode, hold this modifier key to snap.
+opt_box_select_key,Force box-select key
+opt_box_select_key_tip,Modifier key to hold while dragging to force box-select over occupied cells.

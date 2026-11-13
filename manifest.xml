@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>sths_ui_improvements</ID>
+  <Name>STH's UI Improvements</Name>
+  <Author>STH99</Author>
+  <ModVersion>0.1.0</ModVersion>
+  <Description>UI improvements for Probably Stolen.</Description>
+  <GameVersions>
+    <Version>0.46D</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>STHs_UI_Improvements.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Manifest>

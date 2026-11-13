@@ -1,0 +1,14 @@
+opt_enable_snap,开启窗口吸附
+opt_enable_snap_tip,拖拽悬浮窗口时吸附到屏幕边缘和其他窗口。
+opt_always_open_window_front,开启交互物品改为打开窗口并置顶
+opt_always_open_window_front_tip,点击交互物品时，若其窗口已打开则置顶而非关闭。
+opt_enable_box_select,开启按键框选
+opt_enable_box_select_tip,按住框选键在任意格子（空位或有道具）上拖拽即可框选。
+opt_snap_threshold,吸附阈值（像素）
+opt_snap_threshold_tip,窗口边缘距离目标多近时触发吸附。
+opt_snap_mode,窗口吸附模式
+opt_snap_mode_tip,自动：拖拽时始终检测吸附；按键：仅按住窗口吸附按键时检测吸附。
+opt_snap_key,窗口吸附按键
+opt_snap_key_tip,按键模式下按住此修饰键才检测吸附。
+opt_box_select_key,强制框选按键
+opt_box_select_key_tip,拖拽时按住此修饰键，可对已放置道具的格子强制框选。
